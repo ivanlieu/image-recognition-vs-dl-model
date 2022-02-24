@@ -31,7 +31,7 @@ class cnnEvalModel():
                                       ])
         # Download FMNIST test dataset and load test data
         self.testset = datasets.FashionMNIST('~/.pytorch/FMNIST/', download=True, train=False, transform=transform)
-        self.testloader = torch.utils.data.DataLoader(self.testset, batch_size=1, shuffle=True) #shuffle=False with happy birthday mode on for hbd shirt
+        self.testloader = torch.utils.data.DataLoader(self.testset, batch_size=1, shuffle=True) 
 
         self.modelPath = modelFilePath
 
