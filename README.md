@@ -36,6 +36,7 @@ The python program runs a tkinter window instance for user interface where the f
 Having all files in the same directory, start the program by running `main.py` which will open the
 following tkinter UI window:
 ![uiWindow](https://i.imgur.com/G442PNH.png)
+
 Clicking on any of the buttons to select the clothing type that is in the image above will update the window
 contents for the next image to identify and update the score on whether the selected clothing type was correct.
 ### Requirements
@@ -48,6 +49,7 @@ does not run, verify installation versions match above.
 
 ## License
 MIT
+
 Free for me, free for you!
 
 [FMNIST]: <https://github.com/zalandoresearch/fashion-mnist>
