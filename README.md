@@ -2,7 +2,7 @@
 Test out your image recognition against a trained convolutional neural network (CNN) model via tkinter 
 and see how well you stack up classifying grainy, greyscale 28x28 images.
 
-[A jupyter notebook][image-recon-jupyter] port is also available to use by clicking the badge here >>  
+[A jupyter notebook][image-recon-jupyter] port is also available to use by clicking the badge here:  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ivanlieu/image-recognition-jupyter/HEAD?labpath=image-recog-jupyter.ipynb)
 
 ## About the Image Dataset
@@ -56,7 +56,7 @@ MIT
 
 Free for me, free for you!
 
-[image-recon-jupyter] <https://github.com/ivanlieu/image-recognition-jupyter>
+[image-recon-jupyter]: <https://github.com/ivanlieu/image-recognition-jupyter>
 [FMNIST]: <https://github.com/zalandoresearch/fashion-mnist>
 [PyTorch]: <https://pytorch.org/>
 [matplotlib]: <https://matplotlib.org/stable/index.html>
