@@ -2,9 +2,8 @@
 Test out your image recognition against a trained convolutional neural network (CNN) model via tkinter 
 and see how well you stack up classifying grainy, greyscale 28x28 images.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ivanlieu/image-recognition-jupyter/HEAD?labpath=image-recog-jupyter.ipynb)
-
 [A jupyter notebook port][image-recon-jupyter] is also available. Try in-browser by launching the binder badge above.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ivanlieu/image-recognition-jupyter/HEAD?labpath=image-recog-jupyter.ipynb)
 
 ## About the Image Dataset
 The images used for classifying that you and the CNN model will go head-to-head with are from 
