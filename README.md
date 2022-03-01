@@ -2,6 +2,9 @@
 Test out your image recognition against a trained convolutional neural network (CNN) model via tkinter 
 and see how well you stack up classifying grainy, greyscale 28x28 images.
 
+Try it out in-browser through the jupyter-notebook port: 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ivanlieu/image-recognition-jupyter/HEAD?labpath=image-recog-jupyter.ipynb)
+
 ## About the Image Dataset
 The images used for classifying that you and the CNN model will go head-to-head with are from 
 the [Fashion MNIST][FMNIST] test database from Zalando Research. These test images have not been used to
@@ -35,6 +38,7 @@ The python program runs a tkinter window instance for user interface where the f
 ### Running the Program
 Having all files in the same directory, start the program by running `main.py` which will open the
 following tkinter UI window:
+
 ![uiWindow](https://i.imgur.com/G442PNH.png)
 
 Clicking on any of the buttons to select the clothing type that is in the image above will update the window
